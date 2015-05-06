@@ -1,0 +1,17 @@
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+
+
+@font-face
+{
+font-family: blogHeadFont;
+src: url('/example/css3/Sansation_Bold.ttf')
+    ,url('/example/css3/Sansation_Bold.eot'); /* IE9+ */
+font-weight:bold;
+}
+
+h1,p,a,div,span {font-family: Hiragino Sans GB;}
